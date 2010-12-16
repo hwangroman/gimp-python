@@ -31,6 +31,7 @@ def run(*args):
 
     print "Finished"
 
+
 register(
     "chobo_icon_gen", "", "", "", "", "",
     "<Toolbox>/Xtns/Languages/Python-Fu/KillerScripts/_Icon Generator", "",

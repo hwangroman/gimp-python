@@ -34,7 +34,7 @@ def run(*args):
 
 register(
     "chobo_icon_gen", "", "", "", "", "",
-    "<Toolbox>/Xtns/Languages/Python-Fu/KillerScripts/_Icon Generator", "",
+    "<Toolbox>/Xtns/Languages/Python-Fu/_Chobo Scripts/_Icon Generator", "",
     [
     (PF_FILE, "arg0", "Template file", ""),
     (PF_INT,    "arg1", "Maximum number of icons to create", 29),
